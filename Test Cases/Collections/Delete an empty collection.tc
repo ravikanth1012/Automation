@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete an empty collection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3c91f3c-5f31-4e29-91bf-06dafedbebda</testCaseGuid>
+</TestCaseEntity>

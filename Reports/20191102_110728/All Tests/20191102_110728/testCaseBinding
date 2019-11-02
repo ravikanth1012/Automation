@@ -1,0 +1,9 @@
+{"testCaseName":"Test Cases/Login/Login with incorrect Password","testCaseId":"Test Cases/Login/Login with incorrect Password"}
+{"testCaseName":"Test Cases/Login/Valid User Login","testCaseId":"Test Cases/Login/Valid User Login"}
+{"testCaseName":"Test Cases/Collections/Create a new Collection Test","testCaseId":"Test Cases/Collections/Create a new Collection Test"}
+{"testCaseName":"Test Cases/Collections/Delete an empty collection","testCaseId":"Test Cases/Collections/Delete an empty collection"}
+{"testCaseName":"Test Cases/Collections/Renaming an empty Collection","testCaseId":"Test Cases/Collections/Renaming an empty Collection"}
+{"testCaseName":"Test Cases/Collections/List of Organizations","testCaseId":"Test Cases/Collections/List of Organizations"}
+{"testCaseName":"Test Cases/Favorites/List of Existing Favorites","testCaseId":"Test Cases/Favorites/List of Existing Favorites"}
+{"testCaseName":"Test Cases/Collections/List of Existing Collections","testCaseId":"Test Cases/Collections/List of Existing Collections"}
+{"testCaseName":"Test Cases/Drops/List of Existing Drops","testCaseId":"Test Cases/Drops/List of Existing Drops"}
